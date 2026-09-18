@@ -11,7 +11,7 @@ const pages = resolvePageToggles({
 	// ── 社交 (Social) ──────────────────────────────────
 
 	// 友链页面开关
-	friends: true,
+	friends: false,
 	// 留言板页面开关，需要配置评论系统
 	guestbook: true,
 
@@ -42,10 +42,10 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "死不可怕",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "死是凉爽的夏夜",
 
 	// 站点 URL
 	site_url: "https://firefly.cuteleaf.cn",
