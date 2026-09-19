@@ -3,7 +3,7 @@ title: 汉字编码电路实验-2026（new）
 published: 2026-09-19
 pinned: false
 description: "汉字编码电路实验-2026（new）"
-image: "./cover.avif"
+image: "./cover1.jpg"
 tags: ["数字逻辑与计算机组成","作业"]
 category: 作业参考
 series: "数字逻辑与计算机组成"
